@@ -8,6 +8,6 @@ if [ -d "$directory" ]; then
 
 
 else
-	notify-send 'CNP–Error' 
+	notify-send 'Error: picture is not in clipboard' 
 
 fi	
