@@ -8,6 +8,6 @@ if [ -d "$directory" ]; then
 
 
 else
-	notify-send 'Error: picture is not in clipboard' 
+	notify-send 'Error: Picture Directory is not in Clipboard' 
 
 fi	
