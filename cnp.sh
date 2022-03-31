@@ -8,6 +8,6 @@ if [ -d "$directory" ]; then
 
 
 else
-	notify-send 'CNP–Error' --icon="$HOME/.local/share/icons/sadfaceemoji.png"
+	notify-send 'CNP–Error' 
 
 fi	
